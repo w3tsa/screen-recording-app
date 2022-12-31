@@ -89,7 +89,7 @@ const createWindow = () => {
       nodeIntegration: true,
       contextIsolation: false,
     },
-    icon: path.join(__dirname, "app_icon.ico"),
+    icon: path.join(__dirname, "icon.ico"),
   });
 
   ipcMain.handle("sources", async (event) => {
