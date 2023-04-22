@@ -1,6 +1,6 @@
 # screen-recording-app
 
-This is a App build with Electron JS to record screen.
+This is a App build with Electron JS to record screen on a windows device.
 
 ### Technology
 - Electron js
